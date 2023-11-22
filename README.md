@@ -1,5 +1,5 @@
 # hello-world
-My first repository;
-Name: Jose Alberto Guerrero Cruz;
-Nickname: beto;
-Project: Accurate calculation of NMR parameters in TM complexes;
+My first repository \n
+Name: Jose Alberto Guerrero Cruz \n
+Nickname: beto\n
+Project: Accurate calculation of NMR parameters in TM complexes \n
